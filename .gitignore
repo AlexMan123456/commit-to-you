@@ -1,0 +1,9 @@
+# Build outputs
+**/dist/
+
+# macOS noise
+.DS_Store
+**/.DS_Store
+
+# Optional: Logic temp cruft (inside logicx, Logic regenerates these)
+**/Undo Data.nosync
