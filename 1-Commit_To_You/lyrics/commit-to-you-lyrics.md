@@ -58,21 +58,28 @@ I’ll commit to you!
 ### Bridge
 Looking into our stack!  
 I'll commit to you!  
-We've got a lot to unpack!  
+We've got a `NAMESPACE_EXPORT_REGEX`!  
 I'll commit to you!  
-The environment that we're in!  
+`export\s+\*\s+from`  
 I'll commit to you!  
-Delicate as a string!  
+`const VERSION_NUMBER_REGEX: string!`  
 I'll commit to you!
 
-But I think you're my type!  
+`^(?:v)?(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)$`  
 I'll commit to you!  
 Oh, this feels all so right!  
 I'll commit to you!  
-Nothing stopping us now!  
+throw new DataError(
+      radix ? { string, radix } : string,
+      "INTEGER_PARSING_ERROR",
+      `Only numeric values${radix && radix > 10 && radix <= 36 ? ` or character${radix !== 11 ? "s" : ""} A${radix !== 11 ? `-${maxAllowedAlphabeticalCharacter?.toUpperCase()} ` : " "}` : " "}are allowed.`,
+    ); stopping us now!  
 I'll commit to you!  
-Let's show them what we're about!  
-Two, three, four, go!
+Let's show them
+type DisallowUndefined<InputType> = undefined extends InputType
+  ? ["Error: Generic type cannot include undefined"]
+  : InputType;  
+v2.3.4, go!
 
 ### Final Chorus
 I wanna be of utility, I’ll help you on the run!  
