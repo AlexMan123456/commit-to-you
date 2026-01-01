@@ -54,3 +54,47 @@ Looking out for you tonight, I’ll be the one you can rely on!
 Watch you go and watch me pass by,  
 I’ll be here!  
 I’ll commit to you!
+
+### Bridge
+Looking into our stack!  
+I'll commit to you!  
+We've got a lot to unpack!  
+I'll commit to you!  
+The environment that we're in!  
+I'll commit to you!  
+Delicate as a string!  
+I'll commit to you!
+
+But I think you're my type!  
+I'll commit to you!  
+Oh, this feels all so right!  
+I'll commit to you!  
+Nothing stopping us now!  
+I'll commit to you!  
+Let's show them what we're about!  
+Two, three, four, go!
+
+### Final Chorus
+I wanna be of utility, I’ll help you on the run!  
+(help you on the run!)  
+I’ll be the one here in the back, while you go have some fun!  
+(you go have some fun!)  
+Looking out for you tonight, I’ll be the one you can rely on!  
+Watch you go and watch me pass by,  
+I’ll be here!  
+I’ll commit to you!
+
+I wanna be of utility, I’ll help you on the run!  
+(I'll commit to you!)  
+I’ll be the one here in the back, while you go have some fun!  
+(I'll commit to you!)  
+Looking out for you tonight, I’ll be the one you can rely on!  
+(I'll commit to you!)  
+Watch you go and watch me pass by,  
+(I'll commit to you!)  
+I’ll be here!  
+
+### Outro
+I’ll commit to you!  
+I’ll commit to you!  
+I’ll commit to you!
