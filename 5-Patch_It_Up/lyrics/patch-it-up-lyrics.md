@@ -1,5 +1,26 @@
 # Patch It Up
 
+### Intro
+
+(Clean guitar arpeggios)  
+**AAAAAAAAAAAAAAAAA!!!!!!!**
+
+### Verse 1
+
+Looking up at my screen, there is a big red cross!  
+I can't figure it out, now I am at a loss!  
+Oh wait, I've found it out, you won't believe the fix!  
+Turns out that package wasn't using the latest version!  
+But now I've found it out, running the pre-commit!  
+To get it passing took longer than I'll admit!  
+I checked it thoroughly, checking all the syntax!  
+Now time to push my code, hoping that I won't have to...
+
+### Pre-chorus
+
+**PATCH IT UUUUUUUP!**  
+**PATCH IT UUUUUUUP!**  
+
 ### Chorus
 
 Now to face the workflow of the damned!  
@@ -19,5 +40,5 @@ Build, formatting, linting, testing!
 **PATCH! IT! UUUUUUUP!**  
 Fetch the docs and change the version!  
 **PATCH! IT! UUUUUUUP!**  
-Merge the changes, publish package!  
+Merge the changes, start deploying!  
 **PATCH! IT! UUUUUUUP!**  
