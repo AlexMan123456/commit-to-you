@@ -9,7 +9,12 @@ But I just guard the gates of quality!
 
 ### Pre-chorus
 
-
+Sort those objects!  
+Check that spelling!  
+I just wanna get you to your best!  
+Missing symbol!  
+Check that spacing!  
+Put your work to the test!  
 
 ### Chorus
 
