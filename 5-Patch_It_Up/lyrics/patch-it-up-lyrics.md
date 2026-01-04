@@ -19,5 +19,5 @@ Build, formatting, linting, testing!
 **PATCH! IT! UUUUUUUP!**  
 Fetch the docs and change the version!  
 **PATCH! IT! UUUUUUUP!**  
-Merge the changes, publish package!  
+Merge the changes, start deploying!  
 **PATCH! IT! UUUUUUUP!**  
