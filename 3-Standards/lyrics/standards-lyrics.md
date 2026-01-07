@@ -62,3 +62,35 @@ I'm checking! I'm checking!
 You sure this is your best work?  
 I just do this 'cause I care that,  
 You have standards, I'll help you follow 'em too!
+
+### Guitar Solo
+
+### Bridge/Sax Solo
+
+(Sax, fairly simple, playing mainly syncopated eighth note chord tones)
+Go commit yourself to the stage!
+(Sax, faster, doing sixteenth note runs)
+Set your standards and you'll do great!
+(Sax, higher in pitch, playing in groups of 3+3+2 eighth notes over a bVI and V chord)
+One more check then you'll be on your way!
+
+### Final Chorus
+
+I'm checking! I'm checking!  
+Checking for no mistyped things!  
+I'm checking! I'm checking!  
+Making sure your work's all in order!  
+I'm checking! I'm checking!  
+You sure this is your best work?  
+I just do this 'cause I care that,  
+You have standards, and I will follow them!
+
+I'm checking! I'm checking!  
+Checking for no mistyped things!  
+I'm checking! I'm checking!  
+Making sure your work's all in order!  
+I'm checking! I'm checking!  
+You sure this is your best work?  
+I just do this 'cause I care that,  
+You have standards, I'll help you follow 'em too!
+I have standards, you'd better have some too!
