@@ -11,7 +11,7 @@ Looking up at my screen, there is a big red cross!
 I can't figure it out, now I am at a loss!  
 Oh wait, I've found it out, you won't believe the fix!  
 Turns out that package wasn't using the latest version!  
-But now I've found it out, running the pre-commit!  
+But now I've found it out, I'm running the pre-commit!  
 To get it passing took longer than I'll admit!  
 I checked it thoroughly, checking all the syntax!  
 Now time to push my code, hoping that I won't have to...
@@ -52,7 +52,7 @@ Turns out the timezone isn't set to my local time now!
 Well, nevermind, I'm gonna add a workflow dispatch!  
 So I can test it, though it feels like an escape hatch!  
 And once it's run it's gonna update dependencies,  
-Put up a pull request that's gonna yell right at me to...
+Put up a pull request that's gonna yell at me to...
 
 ### Pre-chorus (+ 7/4 polymeter!)
 
