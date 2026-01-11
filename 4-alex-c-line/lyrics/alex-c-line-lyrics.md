@@ -55,3 +55,38 @@ Alex-c-line!
 I'll be at hand,  
 when you say...  
 Alex-c-line run command!
+
+## Synth Solo
+
+## Bridge
+
+Bring the files, I'll write you out a plan!
+Change the version, your app will be out in time!
+If you need my help, just run the command,
+Here in your terminal, install alex-c-line!
+
+Bring the files, I'll write you out a plan!
+Change the version, your app will be out in time!
+If you need my help, just run the command,
+Here in your terminal, install alex-c-line!
+
+## Chorus
+
+Alex-c-line!  
+Brings info right to your console!  
+Alex-c-line!  
+Run tasks for you in the background!  
+Alex-c-line!  
+I'll be at hand,  
+when you say...  
+Alex-c-line run command!  
+So call me...  
+
+Alex-c-line!  
+Brings info right to your console!  
+Alex-c-line!  
+Run tasks for you in the background!  
+Alex-c-line!  
+I'll be at hand,  
+when you say...  
+Alex-c-line run command!
