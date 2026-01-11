@@ -60,14 +60,14 @@ Alex-c-line run command!
 
 ## Bridge
 
-Bring the files, I'll write you out a plan!
-Change the version, your app will be out in time!
-If you need my help, just run the command,
+Bring the files, I'll write you out a plan!  
+Change the version, your app will be out in time!  
+If you need my help, just run the command,  
 Here in your terminal, install alex-c-line!
 
-Bring the files, I'll write you out a plan!
-Change the version, your app will be out in time!
-If you need my help, just run the command,
+Bring the files, I'll write you out a plan!  
+Change the version, your app will be out in time!  
+If you need my help, just run the command,  
 Here in your terminal, install alex-c-line!
 
 ## Chorus
