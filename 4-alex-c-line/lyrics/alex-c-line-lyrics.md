@@ -3,7 +3,7 @@
 ## Verse 1
 
 alex-c-line, here to help you at your command!  
-You can go install me in!  
+You can install me right in!  
 Here in your system or here in your project space!  
 Say my name and I'll assist!  
 I can take care of the tasks of monotony!  
