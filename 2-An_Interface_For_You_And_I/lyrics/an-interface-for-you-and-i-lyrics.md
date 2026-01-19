@@ -60,3 +60,34 @@ Just lay the context out,
 And I'll help you one component at a time!  
 Then through some time we'll build up  
 An interface for you and I to connect!
+
+## Guitar Solo
+
+## Bridge
+
+(COMING SOON)
+
+## Guitar Break
+
+## Final Chorus
+
+I'll listen out for you,  
+If you update me about the state of you!  
+When we communicate,  
+We can do it using our shared language!  
+Just lay the context out,  
+And I'll help you one component at a time!  
+Then through some time we'll build up  
+An interface for you and I to connect!
+
+## Outro
+
+(Interface for you and I! It's...)  
+An interface for you and I to connect!  
+(Interface for you and I! It's...)  
+An interface for you and I to connect!  
+(Interface for you and I! It's...)  
+An interface for you and I to connect!  
+(Interface for you and I! It's...)  
+An interface for you and I,  
+It's an interface for you and I to connect!
