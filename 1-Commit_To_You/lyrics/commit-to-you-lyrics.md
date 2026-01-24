@@ -8,8 +8,8 @@ Shall we take it to the next level now?
 All for you!  
 Come on now, let’s make a fresh start!  
 Pin my number, then you can take me out!  
-While I go and build up my courage for you,  
-All for you!
+Can't you see I really do care about you,  
+About you!
 
 ### Pre-chorus 1
 Although our calendars are imperfect, at best,  
