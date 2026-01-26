@@ -65,18 +65,37 @@ An interface for you and I to connect!
 
 ## Bridge
 
-(COMING SOON)
+Tell me,  
+What you wanna say.  
+I'll keep,  
+Myself up-to-date.  
+Checking...  
+Listening...
+
+Tell me,  
+If you wanna commit.  
+Do you think,  
+We'll be a good fit?  
+Checking...  
+Confirming...
 
 ## Guitar Break
 
 ## Final Chorus
 
+(Interface for you and I! It's...)  
 I'll listen out for you,  
+(An interface for you and I!)  
 If you update me about the state of you!  
+(Interface for you and I! It's...)  
 When we communicate,  
+(An interface for you and I!)  
 We can do it using our shared language!  
+(Interface for you and I! It's...)  
 Just lay the context out,  
+(An interface for you and I!)  
 And I'll help you one component at a time!  
+(Interface for you and I! It's...)  
 Then through some time we'll build up  
 An interface for you and I to connect!
 
