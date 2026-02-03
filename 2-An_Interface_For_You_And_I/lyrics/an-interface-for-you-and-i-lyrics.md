@@ -12,9 +12,9 @@ We'll be together, you and I, here together!
 
 ## Pre-chorus 1
 
-I hope you feel good about the space we share, it's got a lovely view!
-Let me know if you're comfortable in here, I'll adapt to you!
-If there's something you need to say, I'll react with lots of care!
+I hope you feel good about the space we share, it's got a lovely view!  
+Let me know if you're comfortable in here, I'll adapt to you!  
+If there's something you need to say, I'll react with lots of care!  
 When the space is right for you then we'll put our plan right into action!
 
 
@@ -44,9 +44,9 @@ We'll be together, you and I, here together!
 
 ## Pre-chorus 2
 
-If you feel that you just aren't ready yet, I will wait for you!
-Just tell me how you think you're feeling and I will give you room!
-If you feel that there's something wrong, then I'll try to understand!
+If you feel that you just aren't ready yet, I will wait for you!  
+Just tell me how you think you're feeling and I will give you room!  
+If you feel that there's something wrong, then I'll try to understand!  
 When the time is right for you then we'll put our plan right into action!
 
 
