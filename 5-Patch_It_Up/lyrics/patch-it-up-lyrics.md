@@ -16,7 +16,7 @@ To get it passing took longer than I'll admit!
 I checked it thoroughly, checking all the syntax!  
 Now time to push my code, hoping that I won't have to...
 
-### Pre-chorus (+ 7/4 polymeter!)
+### Pre-chorus
 
 **PATCH IT UUUUUUUP!**  
 **PATCH IT UUUUUUUP!**  
@@ -54,7 +54,7 @@ So I can test it, though it feels like an escape hatch!
 And once it's run it's gonna update dependencies,  
 Put up a pull request that's gonna yell at me to...
 
-### Pre-chorus (+ 7/4 polymeter!)
+### Pre-chorus
 
 **PATCH IT UUUUUUUP!**  
 **PATCH IT UUUUUUUP!**  
@@ -84,7 +84,7 @@ Merge the changes, start deploying!
 ### Guitar solo
 ### Guitar solo but a half-step higher
 
-### Bridge (+ 7/4 polymeter!)
+### Bridge
 
 **PATCH IT UUUUUUUP!**  
 **PATCH IT UUUUUUUP!**  
