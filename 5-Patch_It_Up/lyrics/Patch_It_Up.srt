@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:08,120
+The Kingdom at my screen There is a big recluse
+
+2
+00:00:08,120 --> 00:00:10,640
+I can't figure it out I think I'm at a loss
+
+3
+00:00:10,640 --> 00:00:13,280
+But when I've done it out You won't believe the fix
+
+4
+00:00:13,280 --> 00:00:16,200
+Turns out my package was a few single days dispersion
+
+5
+00:00:16,200 --> 00:00:18,920
+But now I'm coming out I'm running the pre-commit
+
+6
+00:00:18,920 --> 00:00:21,520
+Getting fast and getting longer than I'll admit
+
+7
+00:00:21,520 --> 00:00:23,960
+I checked in thoroughly Checking all the syntax
+
+8
+00:00:23,960 --> 00:00:26,640
+Now I have to push my core open Then I won't have to
+
+9
+00:00:26,640 --> 00:00:35,040
+Hack it up! Hack it up!
+
+10
+00:00:35,920 --> 00:00:42,240
+Now you face the workflow of the death I've got to push my changes to the branch
+
+11
+00:00:42,240 --> 00:00:46,640
+See how the actions gonna act I've been said Hack it up now!
+
+12
+00:00:46,640 --> 00:00:52,880
+I just want the change to be deployed The runner's making my blood wanna boil
+
+13
+00:00:52,880 --> 00:00:57,200
+But since I missed my starter flash I've gotta hack it up now!
+
+14
+00:00:57,200 --> 00:01:02,480
+Check out repo set up package Hack it up!
+
+15
+00:01:02,480 --> 00:01:07,520
+Build for man in the deep testing Hack it up!
+
+16
+00:01:07,520 --> 00:01:13,200
+We'll patch the docs and change the version Hack it up!
+
+17
+00:01:13,200 --> 00:01:18,480
+Merge the changes, start deploying Hack it up!
+
+18
+00:01:22,880 --> 00:01:32,000
+The change has been with him, workflow scheduled for 9
+
+19
+00:01:32,000 --> 00:01:34,640
+My whole plan to do a flow will fire up on time
+
+20
+00:01:34,640 --> 00:01:37,200
+After a few more hours I check on it again
+
+21
+00:01:37,200 --> 00:01:39,520
+Turns out my time zone isn't set to my love
+
+22
+00:01:39,520 --> 00:01:42,640
+So now, well never mind I'm gonna add open load dispatch
+
+23
+00:01:42,640 --> 00:01:45,280
+So I can test it though it feels like an escape hatch
+
+24
+00:01:45,280 --> 00:01:47,360
+But most it's gone, it's gone, I'll take it back
+
+25
+00:01:47,360 --> 00:01:50,400
+It seems but a powerful request that's gonna yell at me
+
+26
+00:01:50,640 --> 00:01:59,920
+Hack it up! Hack it up!
+
+27
+00:01:59,920 --> 00:02:06,160
+Now, to face the workflow of the depth I've gotta push my changes to the branch
+
+28
+00:02:06,160 --> 00:02:10,640
+See how the actions gonna act I've been said Hack it up now!
+
+29
+00:02:10,640 --> 00:02:16,880
+I just want the change to be deployed The runner's making my blood wanna boil
+
+30
+00:02:16,880 --> 00:02:19,920
+But since I missed my style of flash I've gotta
+
+31
+00:02:19,920 --> 00:02:23,840
+Hack it up now! Check out read full set of package
+
+32
+00:02:23,840 --> 00:02:31,840
+Hack it up! Build for man in the deep testing Hack it up!
+
+33
+00:02:31,840 --> 00:02:37,200
+We'll patch the docs and change the version Hack it up!
+
+34
+00:02:37,200 --> 00:02:42,480
+Merge the changes, start deploying Hack it up!
+
+35
+00:02:46,880 --> 00:03:13,280
+Hack it up! Hack it up!
+
+36
+00:03:13,280 --> 00:03:22,560
+Hack it up! Hack it up!
+
+37
+00:03:22,560 --> 00:03:28,880
+Now, to face the workflow of the depth I've gotta push my changes to the branch
+
+38
+00:03:28,880 --> 00:03:33,280
+See how the actions gonna act I've been said Hack it up now!
+
+39
+00:03:33,280 --> 00:03:39,520
+I just want the change to be deployed The runner's making my blood wanna boil
+
+40
+00:03:39,520 --> 00:03:42,560
+But since I missed my style of flash I've gotta
+
+41
+00:03:42,560 --> 00:03:46,480
+Hack it up now! Check out read full set of package
+
+42
+00:03:46,480 --> 00:03:54,560
+Hack it up! Build for man in the deep testing Hack it up!
+
+43
+00:03:54,560 --> 00:03:59,840
+We'll patch the docs and change the version Hack it up!
+
+44
+00:03:59,840 --> 00:04:05,360
+Merge the changes, start deploying Hack it up!
+
