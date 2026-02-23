@@ -16,5 +16,7 @@ Hide
 Sleep 150ms
 Type "added 42 packages in 13.20s"
 Enter
+Type "> "
+Sleep 150ms
 Show
 Sleep 2.8s
