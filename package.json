@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "generate-alex-c-line-lyrics": "tsx 4-alex-c-line/scripts/generate-lyrics.ts",
+    "generate-alex-c-line-install": "vhs 4-alex-c-line/scripts/install.tape",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
