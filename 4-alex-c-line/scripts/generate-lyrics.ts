@@ -17,12 +17,12 @@ async function generateLyrics(
       "dist",
       "images",
       sectionName,
-      `line-${index}`,
+      `${sectionName}-line-${index}`,
     );
     if (line === "--") {
       await execa`alex-c-line artwork --save-png ${imagePath}`;
     } else {
-      await execa`alex-c-line artwork --subtitle-text ${line} --save-png ${imagePath}`;
+      await execa`alex-c-line artwork --subtitle-text ${line} --subtitle-color white --save-png ${imagePath}`;
     }
   }
 }
@@ -44,11 +44,11 @@ async function generateLyrics(
       second: [
         "I'll bring you templates to help you mark down a plan!",
         "Document all of your work!",
-        "I'll help you calculate what the next version from here will be!",
+        "I'll help you calculate what the next version\nfrom here will be!",
         "Make them aware what will work!",
         "I can help you to prepare before you commit!",
         "What checks I run is your choice!",
-        "When you feel ready to show the world what you've done",
+        "When you are ready to show the world\nwhat you've done",
         "We'll tag and run a deploy!",
         "When you're ready, call me...",
       ],
@@ -59,6 +59,7 @@ async function generateLyrics(
       "Runs tasks for you in the background!",
       "I'll be at hand, when you say...",
       "run command!",
+      "so call me..."
     ],
     bridge: [
       "Bring the files, I'll write you out a plan!",

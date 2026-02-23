@@ -9,3 +9,4 @@
 **/Undo Data.nosync
 
 node_modules
+.alex-c-line.private.config.js
