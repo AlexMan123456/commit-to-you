@@ -7,3 +7,5 @@
 
 # Optional: Logic temp cruft (inside logicx, Logic regenerates these)
 **/Undo Data.nosync
+
+node_modules
