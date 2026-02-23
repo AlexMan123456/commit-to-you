@@ -31,7 +31,7 @@ I'll help you calculate what the next version from here will be,
 Make them aware what will work!  
 I can help you to prepare before you commit!  
 What checks I run is your choice!  
-When you feel ready to show the world what you've done,  
+When you are ready to show the world what you've done,  
 We'll tag and run a deploy!  
 When you're ready, call me...
 
